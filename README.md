@@ -58,6 +58,7 @@ This can be useful for surveillance applications where you only care about motio
    ```
 
 ---
-
+# **Demo Video**
+[Demo](https://youtu.be/ygUDTbizSGk)
 
 
